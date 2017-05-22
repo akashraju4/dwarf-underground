@@ -11,7 +11,6 @@ class App extends Component {
     return (
       <div className="App">
         <Header />
-     
         <main className="expanded row">
           <Article />
           <Ad /> 
